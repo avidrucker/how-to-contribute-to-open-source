@@ -10,6 +10,7 @@ I recommend looking up Open Source projects that interest you, or start by creat
     - [How to Make an Issue](https://github.com/avidrucker/how-to-make-an-issue)
     - [How to Open a Pull Request](https://github.com/avidrucker/how-to-make-a-pull-request)
 - [How to Use Git](https://github.com/avidrucker/how-to-git)
+- [How to Use Git and GitHub Together](https://github.com/avidrucker/how-to-git-and-github-together)
 - How to Learn to Code (coming soon...)
 
 ## What contributing to Open Source looks like
