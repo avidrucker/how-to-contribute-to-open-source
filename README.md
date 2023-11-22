@@ -6,7 +6,7 @@ Contributing to open source can be fun and easy, or boring and difficult. Let's 
 
 I recommend looking up Open Source projects that interest you, or start by creating your own. It can be helpful to collaborate with friends or mentors. Ask questions, and hopefully you will get good responses. Each Open Source project has its own personality, and you may find that some are friendlier than others. Here are some tiny "How To" projects where you can read more about Open Source contribution, and even try making your own contributions:
 
-- How to Use GitHub (coming soon...)
+- [How to Use GitHub](https://github.com/avidrucker/how-to-github)
     - [How to Make an Issue](https://github.com/avidrucker/how-to-make-an-issue)
     - [How to Open a Pull Request](https://github.com/avidrucker/how-to-make-a-pull-request)
 - [How to Use Git](https://github.com/avidrucker/how-to-git)
