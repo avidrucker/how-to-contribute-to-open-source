@@ -6,11 +6,15 @@ Contributing to open source can be fun and easy, or boring and difficult. Let's 
 
 I recommend looking up Open Source projects that interest you, or start by creating your own. It can be helpful to collaborate with friends or mentors. Ask questions, and hopefully you will get good responses. Each Open Source project has its own personality, and you may find that some are friendlier than others. Here are some tiny "How To" projects where you can read more about Open Source contribution, and even try making your own contributions:
 
-- [How to Use GitHub](https://github.com/avidrucker/how-to-github)
-    - [How to Make an Issue](https://github.com/avidrucker/how-to-make-an-issue)
-    - [How to Open a Pull Request](https://github.com/avidrucker/how-to-make-a-pull-request)
-- [How to Use Git](https://github.com/avidrucker/how-to-git)
-- [How to Use Git and GitHub Together](https://github.com/avidrucker/how-to-git-and-github-together)
+> Note: I've marked some items as "Intro", this means there are no prerequisites to start. "Intermediate" items assume you understand the "intro" material, and "Advanced" means you understand "Intermediate". My recommendation is that you learn in the numbered order.
+
+1. Intro: (Pre-req to learn Git) [How to Command Line](https://github.com/avidrucker/how-to-command-line)
+2. Intermediate: [How to Use Git](https://github.com/avidrucker/how-to-git)
+3. Intro: [How to Use GitHub](https://github.com/avidrucker/how-to-github)
+    - GitHub skill: [How to Make an Issue](https://github.com/avidrucker/how-to-make-an-issue)
+    - GitHub skill: [How to Open a Pull Request](https://github.com/avidrucker/how-to-make-a-pull-request)
+4. Advanced: [How to Use Git and GitHub Together](https://github.com/avidrucker/how-to-git-and-github-together)
+
 - How to Learn to Code (coming soon...)
 
 ## What contributing to Open Source looks like
